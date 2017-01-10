@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: little-poney
+server:
+  port: 9595
